@@ -10,4 +10,4 @@ https://christa-baccas.github.io/HOMEWORK1_HTML_REFACTOR/
 
 ## Screenshot
 
-./HOMEWORK/HOMEWORK1_HTML_REFACTOR/assets/images/01-html-css-git-homework-demo.png
+![Alt Text] (assets/images/Screen Shot 2021-09-15 at 7.09.43 PM.png)
