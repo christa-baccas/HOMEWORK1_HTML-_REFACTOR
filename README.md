@@ -7,6 +7,9 @@ The purpose of this story was to refacotr the existing code of this landing page
 ## Website Link
 
 https://christa-baccas.github.io/HOMEWORK1_HTML_REFACTOR/
+## Help/ Assistance
+- Worked with class members on the #hero class (moving the background image from CSS over to the html file)
+
 
 ## Screenshot
 
