@@ -10,4 +10,4 @@ https://christa-baccas.github.io/HOMEWORK1_HTML_REFACTOR/
 
 ## Screenshot
 
-![Alt Text] (assets/images/Screen Shot 2021-09-15 at 7.09.43 PM.png)
+![image](./HOMEWORK1_HTML_REFACTOR/assets/images/img.png)
