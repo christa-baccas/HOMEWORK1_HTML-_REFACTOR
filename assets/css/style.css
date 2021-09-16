@@ -100,8 +100,12 @@ figure img {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
+.benefits{
+    margin-bottom: 10px;
+    text-align: center;
+   
+}
+/* .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -114,7 +118,7 @@ figure img {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} */
 
 .benefit-lead img {
     display: block;
@@ -172,8 +176,11 @@ figure img {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
+.content{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -186,7 +193,7 @@ figure img {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 .footer {
     padding: 30px;
